@@ -1,4 +1,4 @@
-<h3>TennisGame</h3>
+<h3>ScoreTrack/h3>
 <p>An application to keep track of the scores during a game of tennis.</p>
 
 <h4>Inputs</h4>
